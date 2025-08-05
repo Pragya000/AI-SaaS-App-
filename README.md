@@ -26,7 +26,8 @@ Upload your resume and get AI-powered analysis and suggestions for improvement.
 User Dashboard
 
 Track all your creations, manage plans, and access tools from a clean, intuitive interface.
-#💻 Tech Stack
+
+# Tech Stack
 Frontend: React.js, CSS
 Backend: Node.js, Express.js (API)
 AI Integration: OpenAI APIs, Image Processing APIs
@@ -34,7 +35,6 @@ Hosting: Vercel
 
 # Clone the repository
 git clone [https://github.com/Pragya000/Quick-AI.git]
-cd AI-SaaS-App
 
 # Install dependencies
 npm install
