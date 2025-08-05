@@ -1,5 +1,5 @@
 
-AI-SaaS-App is a powerful AI-powered platform designed to transform your content creation process. With a suite of premium AI tools, it helps you write engaging articles, generate stunning images, and streamline your workflow—all in one place.
+Quick-AI is a powerful AI-powered platform designed to transform your content creation process. With a suite of premium AI tools, it helps you write engaging articles, generate stunning images, and streamline your workflow—all in one place.
 
 🚀 Features
 AI Article Writer
@@ -34,7 +34,7 @@ Hosting: Vercel
 
 📦 Installation (For Development)
 # Clone the repository
-git clone [https://github.com/sumu9897/Quick-AI.git](https://github.com/Pragya000/AI-SaaS-App-.git)
+git clone [https://github.com/Pragya000/Quick-AI.git]
 cd AI-SaaS-App
 
 # Install dependencies
