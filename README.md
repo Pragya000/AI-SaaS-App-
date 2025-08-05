@@ -1,7 +1,5 @@
-QuickAI
-Live Demo: https://quickai-client.vercel.app
 
-QuickAI is a powerful AI-powered platform designed to transform your content creation process. With a suite of premium AI tools, it helps you write engaging articles, generate stunning images, and streamline your workflow—all in one place.
+AI-SaaS-App is a powerful AI-powered platform designed to transform your content creation process. With a suite of premium AI tools, it helps you write engaging articles, generate stunning images, and streamline your workflow—all in one place.
 
 🚀 Features
 AI Article Writer
@@ -29,25 +27,17 @@ User Dashboard
 
 Track all your creations, manage plans, and access tools from a clean, intuitive interface.
 💻 Tech Stack
-Frontend: React.js, Tailwind CSS
+Frontend: React.js, CSS
 Backend: Node.js, Express.js (API)
-Database: Postgres(NEON)
 AI Integration: OpenAI APIs, Image Processing APIs
 Hosting: Vercel
+
 📦 Installation (For Development)
 # Clone the repository
-git clone https://github.com/sumu9897/Quick-AI.git
-cd Quick-AI
+git clone [https://github.com/sumu9897/Quick-AI.git](https://github.com/Pragya000/AI-SaaS-App-.git)
+cd AI-SaaS-App
 
 # Install dependencies
 npm install
 
-# Start the development server
-npm run dev
-📜 License
-© 2025 QuickAI. All rights reserved.
 
-🔗 Links
-🌐 Live Demo
-🐙 GitHub Repository
-📧 Contact: mohammad.sumon9897@gmail.com
